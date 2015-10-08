@@ -2,24 +2,24 @@
 
 **Welcome to the Pixelart Verifier**
 
-This is a Plugin WordPress, which is in basic just an updated version of aqua verifier here on GitHub.
-This plugin uses the latest version of the Envato Api, and its newest possibilities.
-So this plugin doesn't just gives you an updated registration flow on your WordPress support forum 
-(like the aqua verifier did), this also gives you the possibility to check the purchase information of every user on your blog, using the users page in the WP admin backend, this also allows you to update the data, and calculate the support time left (based on a 6 month support period).
+Pixelart Verifier is a WordPress plugin and it's basically just an updated version of the Aqua Verifier (also available on GitHub).
 
-So in basic the functions are:
+Pixelart Verifier uses the latest version of the Envato API and makes use of the newly available endpoints.
+This plugin doesn't just upgrade the registration flow of your bbPress-powered support forum 
+(like the Aqua Verifier did), it also gives you the ability to check the purchase information for each of your forum members via the users page in the WP admin backend.
+It also allows you to update the data, and calculate the remaining support time (based on a 6 month support period).
+
+Summed up, these are the Pixelart Verifier features:
 - New registration process using the users purchase code
-- Show a badge in bbPress if the user has support left
-- Migrate the data from the aqua verifier to our new pulgin without any problems
-- View / Update the purchase information of every user (like the product bought, when it bought, user name, etc.)
-- and many more features
+- Display support entitlement badge for each member of your bbPress forum
+- Easily migrate the data from Aqua Verifier to Pixelart Verifier
+- View / Update the purchase information of every user (purchased product, time of the purchase, user name, etc.)
+- many more features...
+
+**Note:** Support packages with 12 months of support aren't tahen into account at the moment as they are not yet available via Envato API.
 
 
-Remember: Support packages with 12 months of support aren't considered right now, because the Envato Api doesn't gives this information at the moment.
-
-
-You are free to use it in commercial ways, but we would be happy for a credit.
-
+You are free to use Pixelart Verifier for commercial purposes, crediting the source is not required but will be appreciated.
 
 ## Changelog
 Version 1.0.1
