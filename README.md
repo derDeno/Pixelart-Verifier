@@ -23,7 +23,7 @@ You are free to use Pixelart Verifier for commercial purposes, crediting the sou
 
 ## Changelog
 Version 1.0.1 
-####07. October 2015
+######07. October 2015
 ```
 - Fixed Bugs
 ```
