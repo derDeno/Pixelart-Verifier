@@ -1,4 +1,4 @@
-## Pixelart Verifier Development Version
+# Pixelart Verifier Development Version
 
 Current Version: 1.1.0
 
@@ -12,4 +12,4 @@ Latest features:
 
 
 
-# Don't forget to update the pixelart-verifier.php and the login.php to your needs, as they are author specific!
+### Don't forget to update the pixelart-verifier.php and the login.php to your needs, as they are author specific!
