@@ -22,8 +22,6 @@ Summed up, these are the Pixelart Verifier features:
 If you want to try the latest features, check out the development version, but it could be a bit buggy so don't use it on your production site!
 
 
-You are free to use it in commercial ways, but we would be happy for a credit.
-
 
 You are free to use Pixelart Verifier for commercial purposes, crediting the source is not required but will be appreciated.
 
