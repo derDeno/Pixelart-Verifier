@@ -2,7 +2,7 @@
 
 **Welcome to the Pixelart Verifier**
 
-Pixelart Verifier is a WordPress plugin and it's basically just an updated version of the Aqua Verifier (also available on GitHub).
+Pixelart Verifier is a WordPress plugin and it's basically just an updated version of the Aqua Verifier (also available on GitHub), but with many new features.
 
 Pixelart Verifier uses the latest version of the Envato API and makes use of the newly available endpoints.
 This plugin doesn't just upgrade the registration flow of your bbPress-powered support forum 
