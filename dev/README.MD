@@ -12,4 +12,4 @@ Latest features:
 
 
 
-### Don't forget to update the pixelart-verifier.php and the login.php to your needs, as they are author specific!
+### Don't forget to update the pixelart-verifier.php and the addons/px-support.php to your needs, as they are author specific!
