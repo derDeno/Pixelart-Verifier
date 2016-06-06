@@ -9,3 +9,6 @@ Latest features:
 - Also migrate all aqua verifier users the same way
 - Block your forum from unregistered visitors
 - make your own addons, by simply dropping them in the addons folder. Hook into any bbpress function for example or into any of the plugins functions. Custom hooks are coming!!
+- 
+
+** Don't forget to update the pixelart-verifier.php and the login.php to your needs, as they are author specific!
