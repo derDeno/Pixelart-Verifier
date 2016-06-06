@@ -18,6 +18,13 @@ Summed up, these are the Pixelart Verifier features:
 
 **Note:** Support packages with 12 months of support aren't taken into account at the moment as they are not yet available via Envato API.
 
+<<<<<<< Updated upstream
+=======
+If you want to try the latest features, check out the development version, but it could be a bit buggy so don't use it on your production site!
+
+
+You are free to use it in commercial ways, but we would be happy for a credit.
+>>>>>>> Stashed changes
 
 You are free to use Pixelart Verifier for commercial purposes, crediting the source is not required but will be appreciated.
 
@@ -31,6 +38,17 @@ Version 1.0.0 | 01. October 2015
 ```
 - Initial Release
 ```
+
+
+## Development Version
+Version 1.1.0
+- Define your own items
+- Define your own roles
+- Migrate all users from aqua verifier with one click
+- refresh all envato users with one click
+- invalid purchase codes will blocked automatically
+- add your own addons, by simply dropping them into the addons folder
+
 
 ## Authors
 - Deniz Celebi
